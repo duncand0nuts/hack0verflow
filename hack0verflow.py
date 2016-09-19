@@ -1,5 +1,3 @@
-import re
-import requests
 from robobrowser import RoboBrowser
 
 browser = RoboBrowser(history=True)

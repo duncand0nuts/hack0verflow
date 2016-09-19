@@ -5,6 +5,7 @@ every day so you can collect the silver and gold medals for consecutive logins! 
 Instructions:
 
 1. Clone this repo.
+2. Make sure you have installed robobrowser (hint: easy_install robobrowser)
 2. Enter your user credentials in the relevant fields in the python script
 3. put the cron job in your crontab or in the daily or hourly cron files if you prefer
 4. sit back and collect your silver and gold medal with no effort 
